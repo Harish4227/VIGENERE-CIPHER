@@ -47,7 +47,8 @@ decrypted = vigenere_cipher(encrypted, key, decrypt=True)
 print("Decrypted Message:", decrypted)
 ~~~
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/d35c64c8-3913-4c02-a1c2-33e776e8161b" />
+<img width="1918" height="1190" alt="image" src="https://github.com/user-attachments/assets/9d858ebf-fe86-4453-8c70-3d1f4eb88ac3" />
+
 ## RESULT
 
 Thus the program executed successfully
